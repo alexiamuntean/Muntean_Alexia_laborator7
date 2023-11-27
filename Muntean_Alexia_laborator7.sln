@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Muntean_Alexia_laborator7", "Muntean_Alexia_laborator7.csproj", "{3A964C74-5B2D-456A-951E-1F82DA5A494A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A5B81C31-D805-4CC6-805B-D34B1F92E0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A964C74-5B2D-456A-951E-1F82DA5A494A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A964C74-5B2D-456A-951E-1F82DA5A494A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A964C74-5B2D-456A-951E-1F82DA5A494A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3A964C74-5B2D-456A-951E-1F82DA5A494A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A964C74-5B2D-456A-951E-1F82DA5A494A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A964C74-5B2D-456A-951E-1F82DA5A494A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A363756C-06CC-4C3D-BAAA-C07A4DA99020}
+	EndGlobalSection
+EndGlobal
