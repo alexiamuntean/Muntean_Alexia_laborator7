@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -16,5 +17,7 @@ namespace Muntean_Alexia_laborator7.Models
         public string Description { get; set; }
         public DateTime Date { get; set; }
 
+        [ForeignKey(nameof(Shop))]
+        public int ShopID { get; set; }
     }
 }
